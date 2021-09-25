@@ -1,0 +1,36 @@
+.a{
+	color: red;
+	border: 1px dotted blue;
+	text-shadow: 5px 5px 6px yellow;
+
+}
+.b{
+	text-shadow: 5px 5px 6px yellow;
+	color: red;
+}
+.c{
+	color: red;
+}
+.d{
+	color: blue;
+	text-shadow: 5px 5px 6px red;
+}
+.e{
+	color: white;
+	background-repeat: no-repeat;
+	background-image: url('https://scontent.fmdl4-4.fna.fbcdn.net/v/t1.6435-9/s1080x2048/241194321_138678658470466_1945245831994393890_n.jpg?_nc_cat=103&_nc_rgb565=1&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEe6HHw3G0YzLzj5D6Wd11a-zLwkUm01Xf7MvCRSbTVdwtVIGyWxHWy0TG4DT6T6MVIQ5wGHm4oNLvKUlg1iBip&_nc_ohc=AEmezV4_FewAX9F4mgq&_nc_ht=scontent.fmdl4-4.fna&oh=c8151934afa979892781181f1ac54b94&oe=6173071B');
+
+}
+.g{
+	color: red;
+	border-style: dotted;
+	text-align: center;
+	 width: 350px;
+	 height: 240px;
+
+}
+.yy{
+	background-color: blue;
+	color: white;
+	font-size: large;
+}
